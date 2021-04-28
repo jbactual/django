@@ -843,7 +843,11 @@ table#change-history tbody th {
 }
 
 #content {
-    padding: 20px 40px;
+    padding: 0 40px 20px 40px;
+}
+
+div#main {
+  margin-top: 24px;
 }
 
 .dashboard #content {
